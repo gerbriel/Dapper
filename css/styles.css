@@ -26,12 +26,10 @@ nav{
    margin:0;
    padding:0;
    padding:0;
-   background-attachment: fixed;
 }
 .jumbo2{
    background-image: url(/Dapper/img/194A2206.jpg);
    background-size: cover;
-   background-attachment: fixed;
    margin:0;
    padding:0;
    padding:0; 
@@ -39,7 +37,6 @@ nav{
 .jumbo3{
    background-image: url(/Dapper/img/194A2052.jpg);
    background-size: cover;
-   background-attachment: fixed;
    margin:0;
    padding:0;
 }
