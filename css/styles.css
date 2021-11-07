@@ -32,6 +32,12 @@ nav{
    margin:0;
    padding:0;
 }
+.jumbo3{
+    background-image: url(/Dapper/img/194A2052.jpg);
+   background-size: cover;
+   margin:0;
+   padding:0;
+}
 
 h1{
     font-family: 'Courgette', cursive;
