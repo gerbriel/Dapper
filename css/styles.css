@@ -1,0 +1,44 @@
+nav{
+    background-color: #4B1621;
+
+}
+.jumbotron{
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    height: 80vh;
+    margin-bottom: 0;
+    border-radius: 0%;
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.5);
+    height:100%;
+    width:100%;
+    margin:0;
+    color: #ffffff;
+}
+.img-thumbnail{
+    border: none;
+}
+.jumbo1{
+    background-image: url(../img/194A1920.jpg);
+   background-size: cover;
+   margin:0;
+   padding:0;
+}
+.jumbo2{
+    background-color:silver;
+    height: 400px;
+    height: 60vh;
+}
+h1{
+    font-family: 'Courgette', cursive;
+}
+.footer{
+    height: 40px;
+    background-color: #4B1621;
+    color: #ffffff;
+}
+.spacer{
+    background-color: #4B1621;
+    color: #ffffff
+}
