@@ -26,10 +26,12 @@ nav{
    padding:0;
 }
 .jumbo2{
-    background-color:silver;
-    height: 400px;
-    height: 60vh;
+    background-image: url(../img/194A2206.jpg);
+   background-size: cover;
+   margin:0;
+   padding:0;
 }
+
 h1{
     font-family: 'Courgette', cursive;
 }
