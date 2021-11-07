@@ -59,12 +59,13 @@ h1{
     background-color: #354D6A;
     color: #ffffff;
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
     .style1{
         background-position: center;
+        min-height: fit-content;
      }
      .jumbo2{
-        background-image: url(/Dapper/img/194A2206.jpg);
         background-position: center;
+        min-height: fit-content;
      }
   }
