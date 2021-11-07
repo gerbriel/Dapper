@@ -1,6 +1,6 @@
 nav{
     background-color: #4B1621;
-
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.5)
 }
 .jumbotron{
     background-attachment: fixed;
@@ -8,6 +8,7 @@ nav{
     height: 80vh;
     margin-bottom: 0;
     border-radius: 0%;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
 }
 .container{
     background-color: rgba(0, 0, 0, 0.5);
@@ -35,12 +36,13 @@ nav{
 h1{
     font-family: 'Courgette', cursive;
 }
+.spacer{
+    background-color: #4B1621;
+    color: #ffffff;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.5);
+}
 .footer{
     height: 60px;
     background-color: #4B1621;
     color: #ffffff;
-}
-.spacer{
-    background-color: #4B1621;
-    color: #ffffff
 }
