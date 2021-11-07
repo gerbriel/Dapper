@@ -25,21 +25,23 @@ nav{
    background-size: cover;
    margin:0;
    padding:0;
-   background-position:center; 
+   padding:0;
+   background-attachment: fixed;
 }
 .jumbo2{
     background-image: url(/Dapper/img/194A2206.jpg);
    background-size: cover;
    margin:0;
    padding:0;
-   background-position:center; 
+   padding:0;
+   background-attachment: fixed; 
 }
 .jumbo3{
     background-image: url(/Dapper/img/194A2052.jpg);
    background-size: cover;
    margin:0;
    padding:0;
-   background-position:center; 
+   background-attachment: fixed;
 }
 
 h1{
